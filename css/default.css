@@ -1,0 +1,20 @@
+@charset "utf-8";
+html, body {margin:0;padding:0;color:#666666;font-family:dotum,arial;font-size:12px;background:#fff;}
+div, span, p, applet, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strike, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin:0;padding:0;border:0;font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: ''; content: none;}
+strong{font-weight:bold;}
+img {border:none; vertical-align:top;}
+input {margin:0; font-family: NanumGothic,sans-serif;}
+address {font-style:normal;}
+em{font-style:normal;}
+table {margin:0;padding:0;word-break:break-all;border-collapse:collapse; }
+td {font-size:12px;}
+caption {position:absolute; visibility:hidden; width:0; height:0; overflow:hidden; font-size:0;}
+fieldset {border:0;padding:0; margin:0;}
+legend {position:absolute; visibility:hidden; width:0; height:0; overflow:hidden; font-size:0;}
+
